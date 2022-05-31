@@ -2,6 +2,8 @@
 
 # Exercicios_Python
 
+OBS.: Códigos na pasta acima.
+
 Este notebook contém códigos em Python desenvolvidos no curso Entendendo e Visualizando dados com Python, da plataforma Coursera e 
 certificado pela Universidade de Michigan.
 
